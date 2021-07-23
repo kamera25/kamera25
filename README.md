@@ -2,7 +2,7 @@
 
 ## Who am I?
  - Network Engineer - From L0 to L7 (such as main work on telephone pole and Azure, make a web site and more...)  
- - Game Developer - I love Unity and [GGJ](https://globalgamejam.org)! And, I am a organizer of GGJ19/20 site at Hirosima, Japan. 
+ - Game Developer - I love Unity and [GGJ](https://globalgamejam.org)! And, I am a organizer of GGJ19/20 site at Hiroshima, Japan. 
  - Illustration, 3D Modeling - As a hobby :-)
  - Mentor at [CoderDojo Kamiya-cho](https://www.coderdojo-hiroshima.com) and [Kure](https://coderdojokure.jimdofree.com), Hiroshima, Japan
 
