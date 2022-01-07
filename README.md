@@ -14,6 +14,8 @@
 ## Qualifications
  - LPIC Level 1
  - ITIL Foundation
+ - Azure Fundamentals 
+ - and more!
 
 ## Fllow me!
 
