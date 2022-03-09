@@ -1,4 +1,4 @@
-# Hello there, I am Takahiro Nakaoku (kamera25)!
+# Hello there, I am NAKAOKU Takahiro (kamera25)!
 
 ## Who am I?
  - Network Engineer - From L0 to L7 (such as main work on telephone pole and Azure, make a web site and more...)  
