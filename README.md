@@ -9,10 +9,12 @@
 
 ## Made by me
  - [Religion](https://crowsullcore.jimdofree.com) - Open Source 3D online third person shooter
- - [Detective vs Phantom](https://github.com/kamera25/detective_vs_phantom) - action game made at GGJ21
+ - [Detective vs Phantom](https://github.com/kamera25/detective_vs_phantom) - Action game made at GGJ21
+ - [I am fishing cat!](https://unityroom.com/games/wagahai-ha-tsuri-neko-dearu) - Action game made at GameJam Takahashi 2023
+ - [Root X Loot](https://unityroom.com/games/root-x-loot) - Action game made at GGJ23
 
 ## Qualifications
- - LPIC Level 1
+ - LPIC Level 1 (Inactive)
  - ITIL Foundation
  - Azure Fundamentals 
  - and more!
